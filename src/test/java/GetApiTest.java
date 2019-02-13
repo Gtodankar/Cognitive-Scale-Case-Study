@@ -31,4 +31,6 @@ public class GetApiTest {
         System.out.println("User ID received from Response " + id);
         Assert.assertEquals(id, 583231);
     }
+
+    
 }
