@@ -1,12 +1,8 @@
 # Cognitive-Scale-Case-Study
-Written a Test case for API testing with assured framework.
-1. Code snippet to get URL
-Assumption :
-Status code 200 is used for success.
-Minimum time required to run code is 3000 ms.
+Assumption for test suite are as follows
+1.Only success(status code 200) is used.
+2.Response time assumed to be 3000 ms
+3.Content type for response is JSON
 
-2.Validated response for basic checks and printed response data and time.
-
-3.checked expected location string present in response body or not.
-
-4.Stored response in JSONpath object and fetched and validated values for id and location from response.
+Test Case.
+    Validated respone JSON for various attributes
