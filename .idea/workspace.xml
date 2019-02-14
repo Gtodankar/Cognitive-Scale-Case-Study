@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="528383bb-6d1c-4bc5-96a9-2dad99a3e8ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CognitiveScaleCaseStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CognitiveScaleCaseStudy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/APIRestassured.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GetApiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-path/3.0.0/json-path-3.0.0.jar!/io/restassured/path/json/JsonPath.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2346">
+            <state relative-caret-position="102">
               <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
@@ -37,8 +41,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="204">
+              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -53,6 +66,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/GetData123.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/GetApiTest.java" />
       </list>
     </option>
@@ -76,43 +90,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="APIRestassured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APIRestassured" type="462c0819:PsiDirectoryNode" />
+              <item name="Cognitive-Scale-Case-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cognitive-Scale-Case-Study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="APIRestassured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APIRestassured" type="462c0819:PsiDirectoryNode" />
+              <item name="Cognitive-Scale-Case-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cognitive-Scale-Case-Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="APIRestassured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APIRestassured" type="462c0819:PsiDirectoryNode" />
+              <item name="Cognitive-Scale-Case-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cognitive-Scale-Case-Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="APIRestassured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APIRestassured" type="462c0819:PsiDirectoryNode" />
+              <item name="Cognitive-Scale-Case-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cognitive-Scale-Case-Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APIRestassured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APIRestassured" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APIRestassured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APIRestassured" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,7 +124,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550083040429" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550125059383" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -140,53 +144,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="CognitiveScaleCaseStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="CognitiveScaleCaseStudy" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GetApiTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestngAPI" />
       <option name="PACKAGE_NAME" value="" />
@@ -217,42 +174,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetData123 - 2019.02.13 at 23h 18m 03s.xml">
-      <configuration name="GetData123" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetData123 - 2019.02.13 at 23h 18m 25s.xml">
-      <configuration name="GetData123" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetData123 - 2019.02.13 at 23h 18m 35s.xml">
-      <configuration name="GetData123" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetData123 - 2019.02.13 at 23h 22m 44s.xml">
-      <configuration name="GetData123" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetData123 - 2019.02.13 at 23h 23m 16s.xml">
-      <configuration name="GetData123" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetData123 - 2019.02.13 at 23h 24m 52s.xml">
-      <configuration name="GetData123" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetData123 - 2019.02.13 at 23h 25m 25s.xml">
-      <configuration name="GetData123" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetApiTest - 2019.02.13 at 23h 27m 51s.xml">
-      <configuration name="GetApiTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="GetApiTest - 2019.02.13 at 23h 30m 21s.xml">
       <configuration name="GetApiTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GetApiTest - 2019.02.13 at 23h 32m 44s.xml">
       <configuration name="GetApiTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 00h 51m 55s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 11h 19m 43s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 11h 20m 07s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 11h 25m 55s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 11h 27m 19s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 11h 33m 11s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 11h 33m 35s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetApiTest - 2019.02.14 at 11h 36m 14s.xml">
+      <configuration name="GetApiTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27458397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -261,7 +218,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39570552" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34509203" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,27 +260,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bin/pom.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-path/3.0.0/json-path-3.0.0.jar!/io/restassured/path/json/JsonPath.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2346">
+        <state relative-caret-position="102">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GetApiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="209">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
